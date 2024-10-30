@@ -1,0 +1,7 @@
+*/build/
+*/*.user
+*/.qtc_clangd/
+*/.qmake.stash
+*/Makefile*
+*/debug/
+*/release/
