@@ -20,12 +20,12 @@ void Student::setStudentNumber(int newStudentNumber)
     studentNumber = newStudentNumber;
 }
 
-float Student::getAverage() const
+double Student::getAverage() const
 {
     return average;
 }
 
-void Student::setAverage(float newAverage)
+void Student::setAverage(double newAverage)
 {
     average = newAverage;
 }

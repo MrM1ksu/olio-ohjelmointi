@@ -15,8 +15,8 @@ public:
     void setName(const string &newName);
     int getStudentNumber() const;
     void setStudentNumber(int newStudentNumber);
-    float getAverage() const;
-    void setAverage(float newAverage);
+    double getAverage() const;
+    void setAverage(double newAverage);
 };
 
 #endif // STUDENT_H

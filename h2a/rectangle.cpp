@@ -1,15 +1,5 @@
 #include "rectangle.h"
 
-double Rectangle::getWidth() const
-{
-    return width;
-}
-
-double Rectangle::getHeight() const
-{
-    return height;
-}
-
 int Rectangle::getArea() const
 {
     return width * height;

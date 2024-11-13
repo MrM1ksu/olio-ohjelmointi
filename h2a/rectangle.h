@@ -14,8 +14,6 @@ public:
     int getCircum() const;
     void setWidth(double);
     void setHeight(double);
-    double getWidth() const;
-    double getHeight() const;
 };
 
 #endif // RECTANGLE_H
