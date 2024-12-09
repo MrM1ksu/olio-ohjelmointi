@@ -8,5 +8,6 @@ int main(int argc, char *argv[])
     ExampleClass objExampleClass;
     objExampleClass.startToWait();
 
+
     return a.exec();
 }
